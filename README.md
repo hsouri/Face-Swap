@@ -2,7 +2,9 @@
 Python end-to-end pipeline to swap faces in videos and images.
 
 
-The aim of this code is to implement an end-to-end pipeline to swap faces in a video just like Snapchat’s face swap filter or this face swap website.
+The aim of this code is to implement an end-to-end pipeline to swap faces in a video just like Snapchat’s face swap filter or this face swap website. The following figure shows an illustration of the face swap where we swap Ron Weasley's face with Hermione Granger's face.
+
+![Repo List](combined.png)
 
 
 # Landmark detection and Triangulation
