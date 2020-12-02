@@ -51,3 +51,10 @@ python Wrapper.py --video [path to the .mp4 video] --tf true --method [metod key
 ```
 
 Note: You can set frame per second by setting --fps [your desire frame per second]
+
+
+# Appendix
+
+Note1: For the full project description click [here](https://cmsc733.github.io/2019/proj/p2/).
+
+Note2: For the full documentation click [here](https://github.com/hsouri/ResNet-ResNeXt-DenseNet/blob/master/Report.pdf).
