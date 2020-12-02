@@ -57,4 +57,4 @@ Note: You can set frame per second by setting --fps [your desire frame per secon
 
 Note1: For the full project description click [here](https://cmsc733.github.io/2019/proj/p2/).
 
-Note2: For the full documentation click [here](https://github.com/hsouri/ResNet-ResNeXt-DenseNet/blob/master/Report.pdf).
+Note2: For the full documentation click [here](https://github.com/hsouri/Face-Swap/blob/main/Report.pdf).
